@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "tokio-racer",
+    "data-types-exploration",
+]
+
+resolver = "2"
